@@ -1,0 +1,29 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{\scshape Introduction}{1}{0}{1}
+\beamer@sectionintoc {2}{\scshape Basics}{2}{0}{2}
+\beamer@subsectionintoc {2}{1}{\scshape Q-weak First Result}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Q-weak First Result 2}{7}{0}{2}
+\beamer@sectionintoc {3}{\scshape Methodology}{9}{0}{3}
+\beamer@subsectionintoc {3}{1}{Frame 61}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Beam Normal Single Spin Asymmetry}{12}{0}{3}
+\beamer@sectionintoc {4}{\scshape Experiment}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Experimental Apparatus}{17}{0}{4}
+\beamer@sectionintoc {5}{\scshape Analysis}{20}{0}{5}
+\beamer@subsectionintoc {5}{1}{Transverse N-to-$\Delta $ Data Set}{21}{0}{5}
+\beamer@subsectionintoc {5}{2}{Transverse Asymmetries for N-to-$\Delta $ in Hydrogen}{24}{0}{5}
+\beamer@subsectionintoc {5}{3}{Summary of Uncertainties}{27}{0}{5}
+\beamer@sectionintoc {6}{\scshape Results}{30}{0}{6}
+\beamer@subsectionintoc {6}{1}{Extraction of Physics Asymmetry}{31}{0}{6}
+\beamer@subsectionintoc {6}{2}{\scshape Results}{37}{0}{6}
+\beamer@sectionintoc {7}{\scshape Summary}{37}{0}{7}
+\beamer@subsectionintoc {7}{1}{Summary}{39}{0}{7}
+\beamer@sectionintoc {8}{\scshape Backup Slides}{41}{1}{8}
+\beamer@sectionintoc {9}{\scshape Backup}{43}{1}{9}
+\beamer@subsectionintoc {9}{1}{frame 12}{44}{1}{9}
+\beamer@subsectionintoc {9}{2}{frame 3}{46}{1}{9}
+\beamer@sectionintoc {10}{\scshape Methodology}{49}{1}{10}
+\beamer@subsectionintoc {10}{1}{frame 4}{50}{1}{10}
+\beamer@sectionintoc {11}{\scshape Methodology}{55}{1}{11}
+\beamer@subsectionintoc {11}{1}{Frame 6}{56}{1}{11}
+\beamer@sectionintoc {12}{\scshape Methodology}{63}{1}{12}
+\beamer@subsectionintoc {12}{1}{frame 43}{64}{1}{12}
