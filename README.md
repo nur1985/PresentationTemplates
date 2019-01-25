@@ -1,4 +1,5 @@
-Progress Indicator (formerly known as Progess Dots)
+
+More about Progress Indicator on Powerpoint 
 ==================
 This macro adds a ribbon to PowerPoint that can be used to create a
 "progress indicator" for your presentation.  A series of shapes is drawn across
